@@ -1,0 +1,70 @@
+#CalculateYourOwn
+{
+    text-align: center;
+    padding: 3rem;
+    border: 2px solid black;
+    margin: 2rem 15rem;
+    background-color: rgb(4, 13, 18);
+    color: white;
+    border-radius: 2rem;
+}
+
+#CalculateYourOwn > button
+{
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: rgb(24, 61, 61);
+    border: 1px solid rgb(24, 61, 61);
+    box-shadow: 2px 3px 8px black;
+    font-size: 1rem;
+    color: white;
+
+}
+
+#CalculateYourOwn > button:hover
+{
+    transition: 1s;
+    box-shadow: 2px 3px 16px rgb(54, 54, 54);
+    background-color: rgb(92, 131, 116);
+
+}
+
+#CalculateYourOwn > p
+{
+    margin: 1rem 5rem; 
+    background-color: rgb(147, 177, 166);
+    padding: 0.5rem;
+    border-radius: 1rem;
+    box-shadow: 2px 3px 8px rgb(44, 43, 43);
+    color: white;
+    font-size: 2rem;
+    display: none;
+}
+
+#CalculateYourOwn > label
+{
+   font-size: 1.3rem;
+
+}
+
+#CalculateYourOwn > input
+{
+    width: 15rem;
+    height: 3rem;
+    background-color: rgb(233, 233, 233);
+    border-radius: 1rem;
+    box-shadow: 2px 3px 4px rgb(73, 73, 73);
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.outer
+{
+    border: 4px solid rgb(24, 61, 61);
+    border-radius: 3rem;
+    margin: 5rem 8rem;
+}
+
+
+
